@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;  
+}
+.Number_1 {
+    background-color: rgb(169, 204, 204);
+    width: fit-content;
+    height: fit-content;
+    text-align: center;
+    padding: 30px;
+    border-radius: 10px; 
+}
